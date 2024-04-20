@@ -5,6 +5,7 @@
 ### Use hcxdumptool to capture PMKID handshakes from nearby WiFi networks:
 
         hcxdumptool -i <interface> -o <output_file>
+        
 Replace <interface> with your wireless interface (e.g., wlan0) and <output_file> with the filename to save the captured handshakes.
 
 ### Convert Captured Handshake:
